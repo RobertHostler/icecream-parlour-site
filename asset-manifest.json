@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/RobertHostler/icecream-parlour-site/static/css/main.5e86bcdf.chunk.css",
+    "main.js": "/RobertHostler/icecream-parlour-site/static/js/main.67243a82.chunk.js",
+    "main.js.map": "/RobertHostler/icecream-parlour-site/static/js/main.67243a82.chunk.js.map",
+    "runtime-main.js": "/RobertHostler/icecream-parlour-site/static/js/runtime-main.3c1d9e14.js",
+    "runtime-main.js.map": "/RobertHostler/icecream-parlour-site/static/js/runtime-main.3c1d9e14.js.map",
+    "static/js/2.bc033953.chunk.js": "/RobertHostler/icecream-parlour-site/static/js/2.bc033953.chunk.js",
+    "static/js/2.bc033953.chunk.js.map": "/RobertHostler/icecream-parlour-site/static/js/2.bc033953.chunk.js.map",
+    "static/js/3.ffe7692a.chunk.js": "/RobertHostler/icecream-parlour-site/static/js/3.ffe7692a.chunk.js",
+    "static/js/3.ffe7692a.chunk.js.map": "/RobertHostler/icecream-parlour-site/static/js/3.ffe7692a.chunk.js.map",
+    "index.html": "/RobertHostler/icecream-parlour-site/index.html",
+    "static/css/main.5e86bcdf.chunk.css.map": "/RobertHostler/icecream-parlour-site/static/css/main.5e86bcdf.chunk.css.map",
+    "static/js/2.bc033953.chunk.js.LICENSE.txt": "/RobertHostler/icecream-parlour-site/static/js/2.bc033953.chunk.js.LICENSE.txt",
+    "static/media/caramelIceCream.82f3f679.jpg": "/RobertHostler/icecream-parlour-site/static/media/caramelIceCream.82f3f679.jpg",
+    "static/media/chocolateIceCreamDumplings.05405294.jpg": "/RobertHostler/icecream-parlour-site/static/media/chocolateIceCreamDumplings.05405294.jpg",
+    "static/media/iceCream.2ba231d4.jpg": "/RobertHostler/icecream-parlour-site/static/media/iceCream.2ba231d4.jpg",
+    "static/media/iceCreamBowl.49502f00.jpg": "/RobertHostler/icecream-parlour-site/static/media/iceCreamBowl.49502f00.jpg",
+    "static/media/iceCreamLogo.2ee6fbba.jpg": "/RobertHostler/icecream-parlour-site/static/media/iceCreamLogo.2ee6fbba.jpg",
+    "static/media/iceCreamOnWaffles.b8154aa1.jpg": "/RobertHostler/icecream-parlour-site/static/media/iceCreamOnWaffles.b8154aa1.jpg",
+    "static/media/iceCreamSprinkles.d2881702.jpg": "/RobertHostler/icecream-parlour-site/static/media/iceCreamSprinkles.d2881702.jpg",
+    "static/media/lemonLimeIceCream.fe25be9e.jpg": "/RobertHostler/icecream-parlour-site/static/media/lemonLimeIceCream.fe25be9e.jpg",
+    "static/media/vanillaTowerIceCream.4b97843c.jpg": "/RobertHostler/icecream-parlour-site/static/media/vanillaTowerIceCream.4b97843c.jpg",
+    "static/media/watermelonIceCream.4d7b0557.jpg": "/RobertHostler/icecream-parlour-site/static/media/watermelonIceCream.4d7b0557.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c1d9e14.js",
+    "static/js/2.bc033953.chunk.js",
+    "static/css/main.5e86bcdf.chunk.css",
+    "static/js/main.67243a82.chunk.js"
+  ]
+}
